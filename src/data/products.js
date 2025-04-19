@@ -4,5 +4,6 @@ export const products = [
     { id: 3, name: "Orange", category: "Fruits" },
     { id: 4, name: "Carrot", category: "Vegetables" },
     { id: 5, name: "Chicken", category: "Meat" },
+    { id: 5, name: "Mutton", category: "Meat" },
   ];
   
